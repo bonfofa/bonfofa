@@ -1,6 +1,6 @@
+[![MasterHead](https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif)](https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif)
 <h3 align="center">A passionate C# developer in Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bonfofa&label=Profile%20views&color=0e75b6&style=flat" alt="bonfofa" /> </p>
 
 - 🌱 I’m currently learning **Blender, Java**
 
@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonfofa&show_icons=true&locale=en&layout=compact" alt="bonfofa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonfofa&show_icons=true&locale=en" alt="bonfofa" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bonfofa&label=Profile%20views&color=0e75b6&style=flat" alt="bonfofa" /> </p>
