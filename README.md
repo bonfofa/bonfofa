@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonfofa&label=Profile%20views&color=0e75b6&style=flat" alt="bonfofa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/eusoubombonn" target="blank"><img src="https://img.shields.io/twitter/follow/eusoubombonn?logo=twitter&style=for-the-badge" alt="eusoubombonn" /></a> </p>
-
 - 🌱 I’m currently learning **Blender, Java**
 
 - 🤝 I’m looking for help with **C++**
