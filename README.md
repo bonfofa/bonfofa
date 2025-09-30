@@ -1,28 +1,60 @@
-[![MasterHead](https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif)](https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif)
-<h3 align="center">A passionate C# developer in Brazil</h3>
+<div style="background: linear-gradient(120deg, #222236 40%, #4e54c8 100%); color: #ede7f6; border-radius: 18px; padding: 32px 24px; font-family: 'Segoe UI', Verdana, sans-serif; max-width: 760px; margin: auto; box-shadow: 0 6px 36px #1119 1;">
+  <div style="text-align: center;">
+    <a href="https://cdn.discordapp.com/attachments/1286201397184041020/1411954179844472843/1.gif?ex=68dd6c8d&is=68dc1b0d&hm=b4348b94ae0677b920d37944f21178d39cb856b4a5161cbba3f2c204c1b47813&" target="_blank">
+      <img src="https://cdn.discordapp.com/attachments/1286201397184041020/1411954179844472843/1.gif?ex=68dd6c8d&is=68dc1b0d&hm=b4348b94ae0677b920d37944f21178d39cb856b4a5161cbba3f2c204c1b47813&" 
+           alt="3D Art Frog at Computer" style="max-width:160px; border-radius: 12px; border: 3px solid #3636a5; margin-bottom: 14px;">
+    </a>
+    <h2 style="margin: 0 0 7px 0; font-size: 2.3em;">Bonn</h2>
+    <span style="font-size: 1.15em; background: #2a2951; color: #7cfefa; padding: 3px 12px; border-radius: 8px; letter-spacing: 1px;">
+      3D Artist • C# Developer • Cybersecurity • Non-binary Person 🏳️‍⚧️
+    </span>
+  </div>
 
+  <ul style="list-style: none; margin: 26px 0 15px 0; padding: 0; font-size: 1.09em; line-height: 2em;">
+    <li>🌱 Learning: <b>Blender, Java</b></li>
+    <li>🥷 Also working in: <b>Cybersecurity</b>, <b>Freelance 3D Artist</b></li>
+    <li>🤝 Looking for help with: <b>C++</b></li>
+    <li>💬 Ask me about: <b>C#, WPF, Windows, 3D, Security/Privacy</b></li>
+    <li>⚡ Fun fact: <i>I'm non-binary 🏳️‍⚧️</i></li>
+    <li>📬 Contact: <a href="mailto:bonnfonn@outlook.com" style="color: #7cfefa;">bonnfonn@outlook.com</a></li>
+  </ul>
 
-- 🌱 I’m currently learning **Blender, Java**
+  <hr style="border-top: 1.2px solid #4747a7; margin:24px 0 16px 0">
 
-- 🤝 I’m looking for help with **C++**
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom:18px;">
+    <div><strong>Socials</strong>:</div>
+    <a href="https://twitter.com/eusoubonn" target="_blank" title="Twitter">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" alt="Twitter">
+    </a>
+  </div>
 
-- 💬 Ask me about **C# and WPF or Anything related with Windows**
+  <div style="margin-bottom: 18px;">
+    <strong>Languages & Tools:</strong>
+    <div style="margin-top: 9px; display: flex; gap: 15px; flex-wrap: wrap;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="34">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="34">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="34">
+      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="34">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="34">
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="34">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="34">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="34">
+      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="34">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="34">
+      <img src="https://aws.amazon.com/favicon.ico" alt="AWS" width="34">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="34">
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="34">
+    </div>
+  </div>
 
-- 📫 How to reach me **bonnfonn@outlook.com**
-
-- ⚡ Fun fact **Im trans**
-
-- i dont actully use this
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eusoubonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eusoubombonn" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonfofa&show_icons=true&locale=en&layout=compact" alt="bonfofa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonfofa&show_icons=true&locale=en" alt="bonfofa" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bonfofa&label=Profile%20views&color=0e75b6&style=flat" alt="bonfofa" /> </p>
+  <div style="margin-top:18px; display:flex; gap:16px; align-items: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonfofa&show_icons=true&locale=en&layout=compact" alt="Top Languages"
+         style="width: 280px;border-radius:7px;background:white;">
+    <img src="https://github-readme-stats.vercel.app/api?username=bonfofa&show_icons=true&locale=en"
+         alt="GitHub Stats" style="width: 280px;border-radius:7px;background:white;">
+  </div>
+  <div style="margin:18px 0 0 0;">
+      <img src="https://komarev.com/ghpvc/?username=bonfofa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+      <span style="font-size: .9em; color: #989aff; margin-left: 12px;">i don't actually use this much 😋</span>
+  </div>
+</div>
