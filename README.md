@@ -1,60 +1,102 @@
-<div style="background: linear-gradient(120deg, #222236 40%, #4e54c8 100%); color: #ede7f6; border-radius: 18px; padding: 32px 24px; font-family: 'Segoe UI', Verdana, sans-serif; max-width: 760px; margin: auto; box-shadow: 0 6px 36px #1119 1;">
-  <div style="text-align: center;">
-    <a href="https://cdn.discordapp.com/attachments/1286201397184041020/1411954179844472843/1.gif?ex=68dd6c8d&is=68dc1b0d&hm=b4348b94ae0677b920d37944f21178d39cb856b4a5161cbba3f2c204c1b47813&" target="_blank">
-      <img src="https://cdn.discordapp.com/attachments/1286201397184041020/1411954179844472843/1.gif?ex=68dd6c8d&is=68dc1b0d&hm=b4348b94ae0677b920d37944f21178d39cb856b4a5161cbba3f2c204c1b47813&" 
-           alt="3D Art Frog at Computer" style="max-width:160px; border-radius: 12px; border: 3px solid #3636a5; margin-bottom: 14px;">
-    </a>
-    <h2 style="margin: 0 0 7px 0; font-size: 2.3em;">Bonn</h2>
-    <span style="font-size: 1.15em; background: #2a2951; color: #7cfefa; padding: 3px 12px; border-radius: 8px; letter-spacing: 1px;">
-      3D Artist • C# Developer • Cybersecurity • Non-binary Person 🏳️‍⚧️
-    </span>
-  </div>
+<div align="center">
+  
+# 👋 Hey, I'm **Bonn**
 
-  <ul style="list-style: none; margin: 26px 0 15px 0; padding: 0; font-size: 1.09em; line-height: 2em;">
-    <li>🌱 Learning: <b>Blender, Java</b></li>
-    <li>🥷 Also working in: <b>Cybersecurity</b>, <b>Freelance 3D Artist</b></li>
-    <li>🤝 Looking for help with: <b>C++</b></li>
-    <li>💬 Ask me about: <b>C#, WPF, Windows, 3D, Security/Privacy</b></li>
-    <li>⚡ Fun fact: <i>I'm non-binary 🏳️‍⚧️</i></li>
-    <li>📬 Contact: <a href="mailto:bonnfonn@outlook.com" style="color: #7cfefa;">bonnfonn@outlook.com</a></li>
-  </ul>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&lines=3D+Artist+%7C+C%23+Developer;Cybersecurity+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
 
-  <hr style="border-top: 1.2px solid #4747a7; margin:24px 0 16px 0">
+[![Non-binary](https://img.shields.io/badge/Non--binary-🏳️‍⚧️-ff69b4?style=for-the-badge)](https://github.com/bonfofa)
+[![Profile Views](https://komarev.com/ghpvc/?username=bonfofa&color=7c3aed&style=for-the-badge&label=VISITORS)](https://github.com/bonfofa)
 
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom:18px;">
-    <div><strong>Socials</strong>:</div>
-    <a href="https://twitter.com/eusoubonn" target="_blank" title="Twitter">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" alt="Twitter">
-    </a>
-  </div>
+</div>
 
-  <div style="margin-bottom: 18px;">
-    <strong>Languages & Tools:</strong>
-    <div style="margin-top: 9px; display: flex; gap: 15px; flex-wrap: wrap;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="34">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="34">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="34">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="34">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="34">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="34">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="34">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="34">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="34">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="34">
-      <img src="https://aws.amazon.com/favicon.ico" alt="AWS" width="34">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="34">
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="34">
-    </div>
-  </div>
+---
 
-  <div style="margin-top:18px; display:flex; gap:16px; align-items: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonfofa&show_icons=true&locale=en&layout=compact" alt="Top Languages"
-         style="width: 280px;border-radius:7px;background:white;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bonfofa&show_icons=true&locale=en"
-         alt="GitHub Stats" style="width: 280px;border-radius:7px;background:white;">
-  </div>
-  <div style="margin:18px 0 0 0;">
-      <img src="https://komarev.com/ghpvc/?username=bonfofa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-      <span style="font-size: .9em; color: #989aff; margin-left: 12px;">i don't actually use this much 😋</span>
-  </div>
+## 🧑‍💻 About Me
+
+```yaml
+name: Bonn
+location: Brazil 🇧🇷
+roles:
+  - 3D Artist (Freelance)
+  - C# Developer
+  - Cybersecurity Specialist
+pronouns: They/Them
+currently_learning: ["Blender", "Java"]
+looking_for_help_with: "C++"
+fun_fact: "I'm non-binary 🏳️‍⚧️"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frameworks & Platforms
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Design & 3D
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+---
+
+## 💬 Ask Me About
+
+<table>
+  <tr>
+    <td align="center">🎮<br><b>C# & WPF</b></td>
+    <td align="center">🖥️<br><b>Windows Dev</b></td>
+    <td align="center">🎨<br><b>3D Art</b></td>
+    <td align="center">🔐<br><b>Security & Privacy</b></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonfofa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfofa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bonfofa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-bonnfonn@outlook.com-7C3AED?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:bonnfonn@outlook.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@eusoubonn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eusoubonn)
+[![GitHub](https://img.shields.io/badge/GitHub-bonfofa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bonfofa)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💜 Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
+
 </div>
