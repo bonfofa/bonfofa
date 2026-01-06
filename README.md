@@ -75,7 +75,7 @@ fun_fact: "I'm non-binary 🏳️‍⚧️"
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonfofa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfofa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bonfofa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=bonfofa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 
 </div>
 
