@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&lines=3D+Artist+%7C+C%23+Developer;Cybersecurity+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
 
-[![Non-binary](https://img.shields.io/badge/Non--binary-🏳️‍⚧️-ff69b4?style=for-the-badge)](https://github.com/bonfofa)
+[![Non-binary](https://img.shields.io/badge/Non--binary-ff69b4?style=for-the-badge)](https://github.com/bonfofa)
 [![Profile Views](https://komarev.com/ghpvc/?username=bonfofa&color=7c3aed&style=for-the-badge&label=VISITORS)](https://github.com/bonfofa)
 
 </div>
@@ -23,7 +23,7 @@ roles:
 pronouns: They/Them
 currently_learning: ["Blender", "Java"]
 looking_for_help_with: "C++"
-fun_fact: "I'm non-binary 🏳️‍⚧️"
+fun_fact: "I'm non-binary"
 ```
 
 ---
@@ -57,17 +57,6 @@ fun_fact: "I'm non-binary 🏳️‍⚧️"
 ## 💬 Ask Me About
 
 <table>
-
-  ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonfofa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfofa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
-<img src="https://github-readme-streak-stats.vercel.app/?user=bonfofa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
-
-</div>
-
 ---
   <tr>
     <td align="center">🎮<br><b>C# & WPF</b></td>
